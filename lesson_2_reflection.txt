@@ -17,9 +17,13 @@ organized? How would branches help?
   bug needs fixed.
 
 How do the diagrams help you visualize the branch structure?
+  A diagram allows you to quickly determine the ancestry for the entire repository.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+  The final result merges the changes from branch b into branch a creating a combined node
+  where features of branch b are meshed with the latest branch a node. The diagram helps to
+  visualize branch ancestry.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
