@@ -33,4 +33,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Use a separate when you are not ready to merge into the master and would like
+    a review of your suggested changes. This is especially helpful when you are not
+    the author of the master and have implemented a feature you like to share and
+    potentially have implemented by the author.
